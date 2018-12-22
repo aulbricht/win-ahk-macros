@@ -17,6 +17,7 @@ This set of basic hotkeys/macros for Windows include some of my favorite UI enha
 ### Installation:
 Open Explorer and paste the following into the location bar:
 > %appdata%\Microsoft\Windows\Start Menu
+
 Then copy the ahk file into that directory, and it will load when Windows starts.
 
 ### Download AutoHotKey
